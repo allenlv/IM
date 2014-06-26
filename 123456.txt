@@ -1,0 +1,16 @@
+I say :
+nihao
+Allen(123456) :
+nihao
+I say :
+nihao
+Allen(123456) :
+nihao
+I say :
+zhidaole
+Allen(123456) :
+zhidaole
+I say :
+hello
+I say :
+nihao

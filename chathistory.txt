@@ -1,0 +1,16 @@
+I say :
+nihao
+Allen(123456) :
+nihao
+I say :
+nihao
+Allen(123456) :
+nihao
+I say :
+123
+Allen(123456) :
+123
+I say :
+456
+Allen(123456) :
+456
